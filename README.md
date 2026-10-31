@@ -1,2 +1,19 @@
-# GeniusChallengePro
-Flutter project created by KLENCOD IDE
+# Genius Challenge Pro
+
+مشروع Android حديث باستخدام Kotlin + Jetpack Compose.
+
+## ملاحظات مهمة
+
+الكود الأصلي الذي تم إرساله في المحادثة كان مقطوعاً أثناء السؤال رقم 108، لذلك هذه النسخة لا تدّعي أنها تحتوي على بنك الأسئلة الأصلي الكامل.
+
+تم فصل المشروع إلى:
+- model
+- data
+- ViewModel
+- UI
+- Theme
+- Preferences
+
+وتم إضافة إدارة حالة اللعبة، خلط الإجابات، 50:50، حفظ أفضل جائزة، شاشة بداية ونتيجة، وتصميم RTL مناسب للعربية.
+
+افتح المجلد في Android Studio ثم اعمل Gradle Sync وشغّل التطبيق.
